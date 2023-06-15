@@ -34,7 +34,7 @@ print()
 for i in range(10, 20):
     print(i, end=', ')
 print()
-#range
+#range (start, end, stop)
 for i in range(10, 100, 10):
     print(i, end=', ')
 print()
